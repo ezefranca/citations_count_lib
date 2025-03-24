@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+citations_count/__init__.py
+citations_count/config.py
+citations_count/core.py
+citations_count/logging_utils.py
+citations_count.egg-info/PKG-INFO
+citations_count.egg-info/SOURCES.txt
+citations_count.egg-info/dependency_links.txt
+citations_count.egg-info/requires.txt
+citations_count.egg-info/top_level.txt
+citations_count/sources/__init__.py
+citations_count/sources/crossref.py
+citations_count/sources/googlescholar.py
+citations_count/sources/opencitations.py
+tests/test_citations.py

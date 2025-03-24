@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "citations-count"
+version = "0.1.0"
+description = "Fetch citation counts from CrossRef, OpenCitations, and Google Scholar."
+authors = [
+    { name="Ezequiel Santos", email="ezequiel.ifsp@gmail.com" }
+]
+license = { file="LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "pandas"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ezefranca/citations_count_lib"
