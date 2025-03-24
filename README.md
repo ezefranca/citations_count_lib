@@ -72,5 +72,21 @@ Verbose logging can be enabled by setting the verbose parameter to `True`. This 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+## Citation
+
+```bibtex
+@software{Santos_citations_count_is_a_2025,
+	title        = {{citations\_count is a Python library designed to fetch citation counts for academic publications from multiple sources, including CrossRef, OpenCitations, and Google Scholar.}},
+	author       = {Santos, Ezequiel},
+	year         = 2025,
+	month        = {mar},
+	doi          = {10.5281/zenodo.15079456},
+	url          = {https://github.com/ezefranca/citations_count_lib},
+	license      = {MIT},
+	version      = {1.0.0}
+}
+```
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
