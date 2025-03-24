@@ -1,7 +1,7 @@
-# citations_count_lib
+# citations_count_lib ![PyPI - Version](https://img.shields.io/pypi/v/citations-count)
 
 ## Overview
-`citations_count` is a Python library designed to fetch citation counts for academic publications from multiple sources, including [CrossRef](https://www.crossref.org), [OpenCitations](https://opencitations.net), and [Google Scholar](https://scholar.google.com). 
+`citations-count` is a Python library designed to fetch citation counts for academic publications from multiple sources, including [CrossRef](https://www.crossref.org), [OpenCitations](https://opencitations.net), and [Google Scholar](https://scholar.google.com). 
 
 This library provides a unified interface to retrieve citation counts using DOIs (Digital Object Identifiers).
 
