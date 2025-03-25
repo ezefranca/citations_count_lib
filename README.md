@@ -5,6 +5,8 @@
 
 This library provides a unified interface to retrieve citation counts using DOIs (Digital Object Identifiers).
 
+Check the [example on Google Colab](https://colab.research.google.com/drive/17T7tj6Dd5WN4pjOrX-lls0WWfV9f_vNd?usp=sharing).
+
 ## Features
 - Fetch citation counts from CrossRef, OpenCitations, and Google Scholar.
 - Support for verbose logging to aid in debugging.
